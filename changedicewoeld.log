@@ -1,0 +1,1911 @@
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 1
+Material not found!: GC/ROCK/LV_MARBLE
+Material not found!: GC/SNOW/SNOW
+Material not found!: GC/BRICK/C_STONE1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25291 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 39 texinfos to 26
+Reduced 7 texdatas to 7 (120 bytes to 120)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+  81 portalclusters
+ 220 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 4789
+Average clusters visible: 59
+Building PAS...
+Average clusters audible: 81
+visdatasize:2455  compressed from 2592
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+234 faces
+68392 square feet [9848576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+234 patches before subdivision
+234 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4990, max 69
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 50/8192          600/98304    ( 0.6%) 
+brushsides             344/65536        2752/524288   ( 0.5%) 
+planes                 176/65536        3520/1310720  ( 0.3%) 
+vertexes               348/65536        4176/786432   ( 0.5%) 
+nodes                  158/65536        5056/2097152  ( 0.2%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  234/65536       13104/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              150/65536        8400/3670016  ( 0.2%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         234/0             936/0        ( 0.0%) 
+leaves                 162/65536        5184/2097152  ( 0.2%) 
+leaffaces              265/65536         530/131072   ( 0.4%) 
+leafbrushes             82/65536         164/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1696/512000       6784/2048000  ( 0.3%) 
+edges                  946/256000       3784/1024000  ( 0.4%) 
+LDR worldlights         15/8192         1500/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           192/65536         384/131072   ( 0.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2455/16777216 ( 0.0%) 
+entdata               [variable]       11879/393216   ( 3.0%) 
+LDR ambient table      162/65536         648/262144   ( 0.2%) 
+HDR ambient table      162/65536         648/262144   ( 0.2%) 
+LDR leaf ambient      1083/65536       30324/1835008  ( 1.7%) 
+HDR leaf ambient       162/65536        4536/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      148842/0        ( 0.0%) 
+physics               [variable]       25291/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 622
+Writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 2
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38127 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 87 texinfos to 51
+Reduced 10 texdatas to 8 (283 bytes to 238)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 186 portalclusters
+ 630 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 53 visible clusters (0.00%)
+Total clusters visible: 21403
+Average clusters visible: 115
+Building PAS...
+Average clusters audible: 186
+visdatasize:10291  compressed from 8928
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+432 faces
+71439 square feet [10287278.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+432 patches before subdivision
+3368 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 222685, max 233
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4478, 4129, 2577)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(572, 527, 249)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(53, 48, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0007 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 88/8192         1056/98304    ( 1.1%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 280/65536        5600/1310720  ( 0.4%) 
+vertexes               582/65536        6984/786432   ( 0.9%) 
+nodes                  272/65536        8704/2097152  ( 0.4%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  432/65536       24192/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              272/65536       15232/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         432/0            1728/0        ( 0.0%) 
+leaves                 276/65536        8832/2097152  ( 0.4%) 
+leaffaces              511/65536        1022/131072   ( 0.8%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3112/512000      12448/2048000  ( 0.6%) 
+edges                 1878/256000       7512/1024000  ( 0.7%) 
+LDR worldlights         15/8192         1500/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             23/32768         230/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           447/65536         894/131072   ( 0.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      284004/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10291/16777216 ( 0.1%) 
+entdata               [variable]       11879/393216   ( 3.0%) 
+LDR ambient table      276/65536        1104/262144   ( 0.4%) 
+HDR ambient table      276/65536        1104/262144   ( 0.4%) 
+LDR leaf ambient      1643/65536       46004/1835008  ( 2.5%) 
+HDR leaf ambient       276/65536        7728/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149552/0        ( 0.0%) 
+physics               [variable]       38127/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1158
+Writing f:\gomaps\changedIceWoeld.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 3
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38383 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 91 texinfos to 52
+Reduced 10 texdatas to 8 (283 bytes to 238)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 187 portalclusters
+ 624 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 57 visible clusters (0.00%)
+Total clusters visible: 21908
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 187
+visdatasize:10341  compressed from 8976
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+444 faces
+75609 square feet [10887696.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+444 patches before subdivision
+3506 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 216495, max 232
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4395, 4057, 2512)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(556, 513, 242)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(52, 47, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 88/8192         1056/98304    ( 1.1%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes               602/65536        7224/786432   ( 0.9%) 
+nodes                  275/65536        8800/2097152  ( 0.4%) 
+texinfos                52/12288        3744/884736   ( 0.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  444/65536       24864/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              276/65536       15456/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         444/0            1776/0        ( 0.0%) 
+leaves                 279/65536        8928/2097152  ( 0.4%) 
+leaffaces              532/65536        1064/131072   ( 0.8%) 
+leafbrushes            150/65536         300/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3193/512000      12772/2048000  ( 0.6%) 
+edges                 1924/256000       7696/1024000  ( 0.8%) 
+LDR worldlights         15/8192         1500/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           498/65536         996/131072   ( 0.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      291388/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10341/16777216 ( 0.1%) 
+entdata               [variable]       11879/393216   ( 3.0%) 
+LDR ambient table      279/65536        1116/262144   ( 0.4%) 
+HDR ambient table      279/65536        1116/262144   ( 0.4%) 
+LDR leaf ambient      1688/65536       47264/1835008  ( 2.6%) 
+HDR leaf ambient       279/65536        7812/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149552/0        ( 0.0%) 
+physics               [variable]       38383/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1199
+Writing f:\gomaps\changedIceWoeld.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 4
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 83 texinfos to 48
+Reduced 8 texdatas to 6 (248 bytes to 203)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 187 portalclusters
+ 624 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 58 visible clusters (0.00%)
+Total clusters visible: 21909
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 187
+visdatasize:10341  compressed from 8976
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+432 faces
+69351 square feet [9986576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+432 patches before subdivision
+3494 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 216033, max 232
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4377, 4040, 2504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(555, 512, 242)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(52, 47, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               586/65536        7032/786432   ( 0.9%) 
+nodes                  263/65536        8416/2097152  ( 0.4%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  432/65536       24192/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              264/65536       14784/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         432/0            1728/0        ( 0.0%) 
+leaves                 265/65536        8480/2097152  ( 0.4%) 
+leaffaces              520/65536        1040/131072   ( 0.8%) 
+leafbrushes            115/65536         230/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3097/512000      12388/2048000  ( 0.6%) 
+edges                 1876/256000       7504/1024000  ( 0.7%) 
+LDR worldlights         15/8192         1500/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           498/65536         996/131072   ( 0.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      291388/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10341/16777216 ( 0.1%) 
+entdata               [variable]       11729/393216   ( 3.0%) 
+LDR ambient table      265/65536        1060/262144   ( 0.4%) 
+HDR ambient table      265/65536        1060/262144   ( 0.4%) 
+LDR leaf ambient      1600/65536       44800/1835008  ( 2.4%) 
+HDR leaf ambient       265/65536        7420/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149552/0        ( 0.0%) 
+physics               [variable]       28080/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1175
+Writing f:\gomaps\changedIceWoeld.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 5
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 48
+Reduced 8 texdatas to 6 (245 bytes to 173)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 187 portalclusters
+ 624 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 58 visible clusters (0.00%)
+Total clusters visible: 21909
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 187
+visdatasize:10341  compressed from 8976
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+432 faces
+69351 square feet [9986576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+432 patches before subdivision
+3494 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 216033, max 232
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(387, 372, 228)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(50, 47, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               586/65536        7032/786432   ( 0.9%) 
+nodes                  263/65536        8416/2097152  ( 0.4%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  432/65536       24192/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              264/65536       14784/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         432/0            1728/0        ( 0.0%) 
+leaves                 265/65536        8480/2097152  ( 0.4%) 
+leaffaces              520/65536        1040/131072   ( 0.8%) 
+leafbrushes            115/65536         230/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3097/512000      12388/2048000  ( 0.6%) 
+edges                 1876/256000       7504/1024000  ( 0.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           498/65536         996/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      291388/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10341/16777216 ( 0.1%) 
+entdata               [variable]        9252/393216   ( 2.4%) 
+LDR ambient table      265/65536        1060/262144   ( 0.4%) 
+HDR ambient table      265/65536        1060/262144   ( 0.4%) 
+LDR leaf ambient      1364/65536       38192/1835008  ( 2.1%) 
+HDR leaf ambient       265/65536        7420/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28080/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1175
+Writing f:\gomaps\changedIceWoeld.bsp
+1 second elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 6
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28144 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 81 texinfos to 44
+Reduced 8 texdatas to 6 (245 bytes to 173)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 179 portalclusters
+ 543 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 63 visible clusters (0.00%)
+Total clusters visible: 19012
+Average clusters visible: 106
+Building PAS...
+Average clusters audible: 179
+visdatasize:9463  compressed from 8592
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+435 faces
+49354 square feet [7107068.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+435 patches before subdivision
+3087 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 205767, max 250
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(374, 360, 217)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47, 45, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 276/65536        5520/1310720  ( 0.4%) 
+vertexes               688/65536        8256/786432   ( 1.0%) 
+nodes                  240/65536        7680/2097152  ( 0.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  435/65536       24360/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              234/65536       13104/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         435/0            1740/0        ( 0.0%) 
+leaves                 242/65536        7744/2097152  ( 0.4%) 
+leaffaces              568/65536        1136/131072   ( 0.9%) 
+leafbrushes            114/65536         228/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3060/512000      12240/2048000  ( 0.6%) 
+edges                 1878/256000       7512/1024000  ( 0.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           747/65536        1494/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      269832/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9463/16777216 ( 0.1%) 
+entdata               [variable]        9252/393216   ( 2.4%) 
+LDR ambient table      242/65536         968/262144   ( 0.4%) 
+HDR ambient table      242/65536         968/262144   ( 0.4%) 
+LDR leaf ambient      1384/65536       38752/1835008  ( 2.1%) 
+HDR leaf ambient       242/65536        6776/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28144/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1260
+Writing f:\gomaps\changedIceWoeld.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 7
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28144 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 82 texinfos to 45
+Reduced 9 texdatas to 7 (269 bytes to 197)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 179 portalclusters
+ 543 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 63 visible clusters (0.00%)
+Total clusters visible: 19012
+Average clusters visible: 106
+Building PAS...
+Average clusters audible: 179
+visdatasize:9463  compressed from 8592
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+439 faces
+49354 square feet [7107069.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+439 patches before subdivision
+4771 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 494875, max 345
+transfer lists:   3.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 276/65536        5520/1310720  ( 0.4%) 
+vertexes               696/65536        8352/786432   ( 1.1%) 
+nodes                  240/65536        7680/2097152  ( 0.4%) 
+texinfos                45/12288        3240/884736   ( 0.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  439/65536       24584/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              234/65536       13104/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         439/0            1756/0        ( 0.0%) 
+leaves                 242/65536        7744/2097152  ( 0.4%) 
+leaffaces              589/65536        1178/131072   ( 0.9%) 
+leafbrushes            114/65536         228/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3084/512000      12336/2048000  ( 0.6%) 
+edges                 1890/256000       7560/1024000  ( 0.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           945/65536        1890/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      467760/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9463/16777216 ( 0.1%) 
+entdata               [variable]        9252/393216   ( 2.4%) 
+LDR ambient table      242/65536         968/262144   ( 0.4%) 
+HDR ambient table      242/65536         968/262144   ( 0.4%) 
+LDR leaf ambient       179/65536        5012/1835008  ( 0.3%) 
+HDR leaf ambient       242/65536        6776/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28144/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1276
+Writing f:\gomaps\changedIceWoeld.bsp
+1 second elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 8
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 48
+Reduced 8 texdatas to 6 (245 bytes to 173)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 187 portalclusters
+ 624 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 58 visible clusters (0.00%)
+Total clusters visible: 21909
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 187
+visdatasize:10341  compressed from 8976
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+432 faces
+69351 square feet [9986576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+432 patches before subdivision
+3494 patches after subdivision
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 216033, max 232
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2127, 1972, 1493)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(313, 284, 183)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(42, 37, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               586/65536        7032/786432   ( 0.9%) 
+nodes                  263/65536        8416/2097152  ( 0.4%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  432/65536       24192/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              264/65536       14784/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         432/0            1728/0        ( 0.0%) 
+leaves                 265/65536        8480/2097152  ( 0.4%) 
+leaffaces              520/65536        1040/131072   ( 0.8%) 
+leafbrushes            115/65536         230/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3097/512000      12388/2048000  ( 0.6%) 
+edges                 1876/256000       7504/1024000  ( 0.7%) 
+LDR worldlights         10/8192         1000/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           498/65536         996/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      291388/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10341/16777216 ( 0.1%) 
+entdata               [variable]       10641/393216   ( 2.7%) 
+LDR ambient table      265/65536        1060/262144   ( 0.4%) 
+HDR ambient table      265/65536        1060/262144   ( 0.4%) 
+LDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+HDR leaf ambient       265/65536        7420/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28080/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1175
+Writing f:\gomaps\changedIceWoeld.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 9
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28059 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 50
+Reduced 8 texdatas to 6 (251 bytes to 179)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 187 portalclusters
+ 624 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 58 visible clusters (0.00%)
+Total clusters visible: 21909
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 187
+visdatasize:10341  compressed from 8976
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+447 faces
+69351 square feet [9986576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+447 patches before subdivision
+6211 patches after subdivision
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 801710, max 392
+transfer lists:   6.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3390, 3161, 2302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(480, 435, 260)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(63, 55, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9, 7, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               608/65536        7296/786432   ( 0.9%) 
+nodes                  263/65536        8416/2097152  ( 0.4%) 
+texinfos                50/12288        3600/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  447/65536       25032/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              264/65536       14784/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         447/0            1788/0        ( 0.0%) 
+leaves                 265/65536        8480/2097152  ( 0.4%) 
+leaffaces              537/65536        1074/131072   ( 0.8%) 
+leafbrushes            115/65536         230/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3171/512000      12684/2048000  ( 0.6%) 
+edges                 1913/256000       7652/1024000  ( 0.7%) 
+LDR worldlights         10/8192         1000/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           603/65536        1206/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      635360/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10341/16777216 ( 0.1%) 
+entdata               [variable]       10641/393216   ( 2.7%) 
+LDR ambient table      265/65536        1060/262144   ( 0.4%) 
+HDR ambient table      265/65536        1060/262144   ( 0.4%) 
+LDR leaf ambient      1556/65536       43568/1835008  ( 2.4%) 
+HDR leaf ambient       265/65536        7420/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28059/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1219
+Writing f:\gomaps\changedIceWoeld.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 10
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 59
+Reduced 8 texdatas to 6 (257 bytes to 185)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 51 visible clusters (0.00%)
+Total clusters visible: 19346
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+460 faces
+69377 square feet [9990405.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+460 patches before subdivision
+8418 patches after subdivision
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1099808, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6554, 6140, 4503)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(645, 574, 329)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(69, 59, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               607/65536        7284/786432   ( 0.9%) 
+nodes                  259/65536        8288/2097152  ( 0.4%) 
+texinfos                59/12288        4248/884736   ( 0.5%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  460/65536       25760/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              263/65536       14728/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         460/0            1840/0        ( 0.0%) 
+leaves                 261/65536        8352/2097152  ( 0.4%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            117/65536         234/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3239/512000      12956/2048000  ( 0.6%) 
+edges                 1960/256000       7840/1024000  ( 0.8%) 
+LDR worldlights         10/8192         1000/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      877856/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       10642/393216   ( 2.7%) 
+LDR ambient table      261/65536        1044/262144   ( 0.4%) 
+HDR ambient table      261/65536        1044/262144   ( 0.4%) 
+LDR leaf ambient      1364/65536       38192/1835008  ( 2.1%) 
+HDR leaf ambient       261/65536        7308/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149531/0        ( 0.0%) 
+physics               [variable]       28044/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1265
+Writing f:\gomaps\changedIceWoeld.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 11
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 81 texinfos to 47
+Reduced 8 texdatas to 5 (244 bytes to 132)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 50 visible clusters (0.00%)
+Total clusters visible: 19345
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+460 faces
+69377 square feet [9990405.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+460 patches before subdivision
+8418 patches after subdivision
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1099808, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(23300, 19243, 11535)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4129, 2871, 1107)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(757, 442, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(139, 68, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(26, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               607/65536        7284/786432   ( 0.9%) 
+nodes                  259/65536        8288/2097152  ( 0.4%) 
+texinfos                47/12288        3384/884736   ( 0.4%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  460/65536       25760/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              263/65536       14728/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         460/0            1840/0        ( 0.0%) 
+leaves                 261/65536        8352/2097152  ( 0.4%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            117/65536         234/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3239/512000      12956/2048000  ( 0.6%) 
+edges                 1960/256000       7840/1024000  ( 0.8%) 
+LDR worldlights         16/8192         1600/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      975728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       11646/393216   ( 3.0%) 
+LDR ambient table      261/65536        1044/262144   ( 0.4%) 
+HDR ambient table      261/65536        1044/262144   ( 0.4%) 
+LDR leaf ambient      1529/65536       42812/1835008  ( 2.3%) 
+HDR leaf ambient       261/65536        7308/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149834/0        ( 0.0%) 
+physics               [variable]       28044/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1265
+Writing f:\gomaps\changedIceWoeld.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 12
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28032 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 71 texinfos to 39
+Reduced 5 texdatas to 3 (157 bytes to 90)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 52 visible clusters (0.00%)
+Total clusters visible: 19347
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+460 faces
+69377 square feet [9990405.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+460 patches before subdivision
+8418 patches after subdivision
+31 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1099808, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(56627, 45812, 26287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13663, 9039, 3151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3374, 1810, 397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(835, 364, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(207, 73, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(13, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               607/65536        7284/786432   ( 0.9%) 
+nodes                  259/65536        8288/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  460/65536       25760/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              263/65536       14728/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         460/0            1840/0        ( 0.0%) 
+leaves                 261/65536        8352/2097152  ( 0.4%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            117/65536         234/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3239/512000      12956/2048000  ( 0.6%) 
+edges                 1960/256000       7840/1024000  ( 0.8%) 
+LDR worldlights         31/8192         3100/819200   ( 0.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      975728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       14978/393216   ( 3.8%) 
+LDR ambient table      261/65536        1044/262144   ( 0.4%) 
+HDR ambient table      261/65536        1044/262144   ( 0.4%) 
+LDR leaf ambient      1512/65536       42336/1835008  ( 2.3%) 
+HDR leaf ambient       261/65536        7308/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149516/0        ( 0.0%) 
+physics               [variable]       28032/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1265
+Writing f:\gomaps\changedIceWoeld.bsp
+14 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 13
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28032 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 71 texinfos to 39
+Reduced 5 texdatas to 3 (157 bytes to 90)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 52 visible clusters (0.00%)
+Total clusters visible: 19347
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+460 faces
+69377 square feet [9990405.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+460 patches before subdivision
+8418 patches after subdivision
+31 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1099808, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(56627, 45812, 26287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13663, 9039, 3151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3374, 1810, 397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(835, 364, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(207, 73, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(13, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               607/65536        7284/786432   ( 0.9%) 
+nodes                  259/65536        8288/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  460/65536       25760/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              263/65536       14728/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         460/0            1840/0        ( 0.0%) 
+leaves                 261/65536        8352/2097152  ( 0.4%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            117/65536         234/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3239/512000      12956/2048000  ( 0.6%) 
+edges                 1960/256000       7840/1024000  ( 0.8%) 
+LDR worldlights         31/8192         3100/819200   ( 0.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      975728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       14978/393216   ( 3.8%) 
+LDR ambient table      261/65536        1044/262144   ( 0.4%) 
+HDR ambient table      261/65536        1044/262144   ( 0.4%) 
+LDR leaf ambient      1512/65536       42336/1835008  ( 2.3%) 
+HDR leaf ambient       261/65536        7308/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149516/0        ( 0.0%) 
+physics               [variable]       28032/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1265
+Writing f:\gomaps\changedIceWoeld.bsp
+14 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 13
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28032 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 71 texinfos to 39
+Reduced 5 texdatas to 3 (157 bytes to 90)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 52 visible clusters (0.00%)
+Total clusters visible: 19347
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+460 faces
+69377 square feet [9990405.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+460 patches before subdivision
+8418 patches after subdivision
+31 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1099808, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(56628, 45812, 26288)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13663, 9039, 3151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3374, 1810, 397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(835, 364, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(208, 73, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(13, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             522/65536        4176/524288   ( 0.8%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               607/65536        7284/786432   ( 0.9%) 
+nodes                  259/65536        8288/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  460/65536       25760/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              263/65536       14728/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         460/0            1840/0        ( 0.0%) 
+leaves                 261/65536        8352/2097152  ( 0.4%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            117/65536         234/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3239/512000      12956/2048000  ( 0.6%) 
+edges                 1960/256000       7840/1024000  ( 0.8%) 
+LDR worldlights         31/8192         3100/819200   ( 0.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      975728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       14978/393216   ( 3.8%) 
+LDR ambient table      261/65536        1044/262144   ( 0.4%) 
+HDR ambient table      261/65536        1044/262144   ( 0.4%) 
+LDR leaf ambient      1512/65536       42336/1835008  ( 2.3%) 
+HDR leaf ambient       261/65536        7308/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149516/0        ( 0.0%) 
+physics               [variable]       28032/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1265
+Writing f:\gomaps\changedIceWoeld.bsp
+25 seconds elapsed
+
+
+
+materialPath: D:\GTAV\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading F:\GoMaps\changedIceWoeld.vmf
+Map revision 14
+Patching WVT material: maps/changedicewoeld/nature/blendswampmud_aztec_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\GoMaps\changedIceWoeld.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28588 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 42
+Reduced 6 texdatas to 4 (176 bytes to 109)
+Writing F:\GoMaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\gomaps\changedIceWoeld.bsp
+reading f:\gomaps\changedIceWoeld.prt
+ 175 portalclusters
+ 553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 52 visible clusters (0.00%)
+Total clusters visible: 19347
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 175
+visdatasize:9035  compressed from 8400
+writing f:\gomaps\changedIceWoeld.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading f:\gomaps\changedIceWoeld.bsp
+466 faces
+107205 square feet [15437573.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+466 patches before subdivision
+8424 patches after subdivision
+31 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1100060, max 411
+transfer lists:   8.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(56702, 45871, 26323)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13671, 9044, 3153)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3376, 1811, 397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(835, 364, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(208, 73, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(13, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 77/8192          924/98304    ( 0.9%) 
+brushsides             528/65536        4224/524288   ( 0.8%) 
+planes                 284/65536        5680/1310720  ( 0.4%) 
+vertexes               615/65536        7380/786432   ( 0.9%) 
+nodes                  265/65536        8480/2097152  ( 0.4%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  466/65536       26096/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              269/65536       15064/3670016  ( 0.4%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         466/0            1864/0        ( 0.0%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              546/65536        1092/131072   ( 0.8%) 
+leafbrushes            118/65536         236/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3287/512000      13148/2048000  ( 0.6%) 
+edges                 1984/256000       7936/1024000  ( 0.8%) 
+LDR worldlights         31/8192         3100/819200   ( 0.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           690/65536        1380/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      975728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9035/16777216 ( 0.1%) 
+entdata               [variable]       15054/393216   ( 3.8%) 
+LDR ambient table      268/65536        1072/262144   ( 0.4%) 
+HDR ambient table      268/65536        1072/262144   ( 0.4%) 
+LDR leaf ambient      1563/65536       43764/1835008  ( 2.4%) 
+HDR leaf ambient       268/65536        7504/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149516/0        ( 0.0%) 
+physics               [variable]       28588/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 1277
+Writing f:\gomaps\changedIceWoeld.bsp
+14 seconds elapsed
